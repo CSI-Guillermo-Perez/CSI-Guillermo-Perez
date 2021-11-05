@@ -1,16 +1,19 @@
-### Hi there 👋
+# Welcome to my GitHub!
 
-<!--
-**CSI-Guillermo-Perez/CSI-Guillermo-Perez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+### My name is Guillermo Perez and i am a student.
+### My hobies are:
+
+* Volleybal
+* Videogames
+* Talking with friends
+* Sleeping
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on nothing
+- 🌱 I’m currently learning everything
+- 👯 I’m looking to collaborate on school work
+- 🤔 I’m looking for help with studying
+- 💬 Ask me about 
+- 📫 How to reach me: email
+
