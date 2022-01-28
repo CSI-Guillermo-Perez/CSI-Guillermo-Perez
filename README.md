@@ -4,7 +4,6 @@
 ### My name is Guillermo Perez and i am a student.
 ### My hobies are:
 
-* Volleybal
 * Videogames
 * Talking with friends
 * Sleeping
